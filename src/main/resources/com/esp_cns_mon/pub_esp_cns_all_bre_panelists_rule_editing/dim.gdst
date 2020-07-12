@@ -66,9 +66,9 @@
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
           <width>100</width>
-          <header>Country : panelist_panelist_attr_44 equals</header>
+          <header>Agegroupgender : panelist_panelist_attr_70 equals</header>
           <constraintValueType>1</constraintValueType>
-          <factField>panelist_panelist_attr_44</factField>
+          <factField>panelist_panelist_attr_70</factField>
           <fieldType>Long</fieldType>
           <operator>==</operator>
           <parameters/>
@@ -82,9 +82,9 @@
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
           <width>100</width>
-          <header>Agegroupgender : panelist_panelist_attr_70 equals</header>
+          <header>Country : panelist_panelist_attr_44 equals</header>
           <constraintValueType>1</constraintValueType>
-          <factField>panelist_panelist_attr_70</factField>
+          <factField>panelist_panelist_attr_44</factField>
           <fieldType>Long</fieldType>
           <operator>==</operator>
           <parameters/>
@@ -119,7 +119,7 @@
         </condition-column52>
         <condition-column52>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>356</width>
           <header>Agegroupgender : panelist_panelist_attr_70 in</header>
           <constraintValueType>1</constraintValueType>
           <factField>panelist_panelist_attr_70</factField>
@@ -207,36 +207,42 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueNumeric class="long">0</valueNumeric>
         <valueString></valueString>
+        <dataType>NUMERIC_LONG</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueNumeric class="long">0</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_LONG</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueNumeric class="long">0</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_LONG</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueNumeric class="int">0</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_INTEGER</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueNumeric class="long">0</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_LONG</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueString>1</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString></valueString>
-        <dataType>STRING</dataType>
-        <isOtherwise>false</isOtherwise>
-      </value>
-      <value>
-        <valueString></valueString>
-        <dataType>STRING</dataType>
-        <isOtherwise>false</isOtherwise>
-      </value>
-      <value>
-        <valueString></valueString>
-        <dataType>STRING</dataType>
-        <isOtherwise>false</isOtherwise>
-      </value>
-      <value>
-        <valueString></valueString>
-        <dataType>STRING</dataType>
-        <isOtherwise>false</isOtherwise>
-      </value>
-      <value>
-        <valueString></valueString>
-        <dataType>STRING</dataType>
-        <isOtherwise>false</isOtherwise>
-      </value>
-      <value>
+        <valueNumeric class="long">0</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_LONG</dataType>
         <isOtherwise>false</isOtherwise>
