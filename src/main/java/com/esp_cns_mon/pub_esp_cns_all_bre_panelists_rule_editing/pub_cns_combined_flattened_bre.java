@@ -1159,7 +1159,7 @@ public class pub_cns_combined_flattened_bre implements java.io.Serializable {
 	private java.lang.String panelist_panelist_attr_33;
 	private java.lang.Long panelist_panelist_attr_34;
 	private java.lang.Long panelist_panelist_attr_35;
-	private java.lang.Long panelist_panelist_attr_36;
+	private java.lang.String panelist_panelist_attr_36;
 	private java.lang.Long panelist_panelist_attr_37;
 	private java.lang.Long panelist_panelist_attr_38;
 	private java.lang.Long panelist_panelist_attr_39;
@@ -12493,12 +12493,12 @@ private java.lang.String panelist_panelist_attr_100;
 		 this.panelist_panelist_attr_35 = panelist_panelist_attr_35;
 	}
 
-	public java.lang.Long getPanelist_panelist_attr_36()
+	public java.lang.String getPanelist_panelist_attr_36()
 	{
 		return this.panelist_panelist_attr_36;
 	}
 
-	public void setPanelist_panelist_attr_36(java.lang.Long panelist_panelist_attr_36)
+	public void setPanelist_panelist_attr_36(java.lang.String panelist_panelist_attr_36)
 	{
 		 this.panelist_panelist_attr_36 = panelist_panelist_attr_36;
 	}
@@ -19147,10 +19147,6 @@ private java.lang.String panelist_panelist_attr_100;
 public java.lang.Integer countListElements(java.util.List lst){
 lst.removeAll(java.util.Arrays.asList("", null));
      return lst.size();
-}
-
-public java.lang.Integer date_day_of_week(java.lang.String panelist_survey_start_date){
-	return 0;
 }
 
 }
